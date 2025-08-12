@@ -1,72 +1,142 @@
-# Hi there 👋, I'm Satvik Priyadarshi!
+# Hi there! 👋 I'm Satvik Priyadarshi
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Development+Engineer;React+%7C+Node.js+%7C+React+Native;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 ## 🚀 About Me
-I'm a **passionate Software Developer** with experience across full stack web and cross-platform mobile development. I enjoy building scalable applications and learning new technologies. Currently, I’m working at **Medispace Solutions** as an **SDE** (May 2025–Present), focusing on mobile and cloud solutions.
 
-## 🏢 Experience
+I'm a passionate **Software Development Engineer** with a strong foundation in full-stack development. Currently working at **Medispace Solutions** and pursuing B.Tech in Electronics Engineering from SKIT, Jaipur.
 
-### Medispace Solutions — Software Development Engineer *(May 2025–Present)*
-- Building cross-platform mobile apps using **React Native CLI**
-- Managing deployments with **Linode** and **Vercel**
-- Working extensively with **Next.js**, **React.js**, and modern web technologies
+- 🔭 I'm currently working on **React Native applications** and **scalable web solutions**
+- 🌱 I'm currently learning **Advanced React patterns** and **Cloud technologies**
+- 👯 I'm looking to collaborate on **open source projects** and **innovative web applications**
+- 💬 Ask me about **React, Node.js, React Native, JavaScript**
+- 📫 How to reach me: **priyadarshisatvik8@gmail.com**
+- ⚡ Fun fact: **I love automating things and building solutions that make life easier**
 
-### Techniajz — Full Stack Web Development Intern *(Oct 2024–Mar 2025)*
-- Developed & maintained backend services for **UpMyTeam** using **Node.js**, **Express.js**, and **MongoDB**
-- Built interactive frontends with **React.js**, **Angular**
-- Enhanced real-time communication features using **Socket.io**
+## 🛠️ Tech Stack
 
-## 📚 Education
-- **B.Tech in Electronics Engineering**  
-  Swami Keshvanand Institute of Technology (SKIT), Jaipur  
-  CGPA: 8.2 (Jul 2021 – May 2025)
-- **XII, BSEB:** Rajdeo Singh College, SIWAN – 70%
-- **X, BSEB:** A.B.C H/S Bagara, SIWAN – 70%
+<div align="center">
 
-## 🛠️ Skills
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Languages:** C, C++, Python, JavaScript, HTML, CSS, SQL
-- **Frameworks/Libraries:** ReactJS, React Native CLI, Next.js, Angular, NodeJS, Express.js, Material UI
-- **Technologies:** MongoDB, MySQL, Docker, Firebase
-- **Dev Tools:** Git, GitHub, VSCode, Netlify, Vercel, Linode
-- **Other:** Operating Systems, OOPS, DBMS, Computer Networks
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-## 💡 Projects
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Hydroponic Farming System**  
-  Designed & developed a management system with real-time sensor automation using **React.js**, **Node.js**, **MQTT**, and **NodeMCU**. Integrated crop-specific monitoring, JWT authentication, and automated alerts.
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A68?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- **S Kart** [GitHub Link]  
-  Created a fully functional e-commerce platform with **React.js**, **Material UI**, **Firebase**, and **Razorpay** for secure payments. Included an admin panel for product and order management.
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🏆 Coding Profile & Certifications
-- LeetCode | GeeksforGeeks
+</div>
 
-## 🤝 Extracurriculars
-- Volunteered at SKIT’s annual blood donation camp
-- Coordinated *Umang* and *Baghirath* outreach for elderly and underprivileged children with local NGOs
+## 💼 Work Experience
 
-## 📈 GitHub Stats
+### Software Development Engineer at Medispace Solutions
+**May 2025 - Present**
+- Developing mobile applications using **React Native CLI**
+- Building scalable web applications with **Next.js** and **React.js**
+- Managing server infrastructure on **Linode**
+- Deploying applications on **Vercel** platform
 
-![SatvikPriyadarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=radical)
+### Full Stack Developer Intern at Techniajz
+**October 2024 - March 2025**
+- Developed backend for UpMyTeam with database filtering for multi-company operations
+- Built frontend using **React.js** for multiple projects
+- Implemented real-time features using **Socket.io**
+- Worked with **Node.js**, **Express.js**, and **Angular**
 
-## 📫 How to Reach Me
+## 🚀 Featured Projects
 
-- **Email:** priyadarshisatvik8@gmail.com
-- **LinkedIn:** [Satvik Priyadarshi](https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/)
-- **GitHub:** [SatvikPriyadarshi](https://github.com/SatvikPriyadarshi)
-- **Mobile:** +91 9798236106
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### 🌱 Hydroponic Farming System
+**Full-Stack IoT Application**
+- Built with **React.js** frontend and **Node.js** backend
+- Real-time sensor data via **MQTT** and **NodeMCU**
+- **JWT authentication** and automated environmental controls
+- Email alerts and real-time monitoring dashboard
+
+### 🛒 S-Kart E-commerce Platform
+**Complete E-commerce Solution**
+- **React.js** with **Material UI** for responsive design
+- **Firebase** backend with **Razorpay** payment integration
+- Admin panel for product and order management
+- Secure user authentication and shopping cart
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikPriyadarshi&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatvikPriyadarshi&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your-profile)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/your-profile)
+
+</div>
+
+## 🌟 Community & Volunteering
+
+- 🩸 **Blood Donation Camp Volunteer** - SKIT College
+- 🤝 **Umang & Baghirath Programs** - Community outreach for elderly and underprivileged children
+- 🏥 **NGO Collaboration** - Working with local shelters and community organizations
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatvikPriyadarshi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyadarshisatvik8@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 ---
 
-> *“Striving to build solutions that empower communities and make lives better.”*
-
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/SatvikPriyadarshi">SatvikPriyadarshi</a></i>
+</div>
