@@ -23,7 +23,7 @@
 
 <br><br><br><br>
 
-- 🔭 I'm currently working at **Medispace Solutions** as **Software Development Engineer**
+- 🔭 I'm currently working at **Medispace Solutions** as **Software Developer**
 - 🚀 Building **complete applications from scratch** - designing schemas, architecture, and full-stack solutions
 - 🌱 I'm currently mastering **React Native, Next.js, Cloud Infrastructure**
 - 💡 I love **automating processes** and building **scalable IoT solutions**
