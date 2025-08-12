@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Satvik+Priyadarshi!;Software+Development+Engineer;Full+Stack+Developer;React+Native+Specialist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Satvik+Priyadarshi!;Software+Developer;Full+Stack+Developer;React+Native+Specialist;" />
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Software+Development+Engineer+at+Medispace;Building+Scalable+Full-Stack+Applications;Based+in+Jaipur%2C+Rajasthan+📍" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Software+Developer+at+Medispace;Building+Scalable+Full-Stack+Applications;Based+in+Jaipur%2C+Rajasthan+📍" />
 </h3>
 
 <div align="center">
@@ -38,32 +38,28 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   ⚒️ Languages-Frameworks-Tools ⚒️
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061a7d2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-a4d9-4c38-9a71-d2845d5a6fd2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,html,css,python&theme=dark" />
+    <h3>💻 Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp&theme=dark" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,express,docker,git,github,vscode&theme=dark" />
+    
+    <h3>🚀 Frontend Technologies</h3>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui&theme=dark" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,firebase,vercel,linux,tailwind,materialui&theme=dark" />
+    
+    <h3>⚙️ Backend & Database</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+    <br><br>
+    
+    <h3>🛠️ Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux&theme=dark" />
 </div>
 
 <br/>
@@ -86,7 +82,7 @@
 
 <div align="center">
 
-### 🚀 Software Development Engineer | Medispace Solutions
+### 🚀 Software Developer | Medispace Solutions
 **May 2025 - Present**
 - 🏗️ **Building complete applications from scratch** - designing database schemas, system architecture
 - 📱 Developing cross-platform mobile apps with **React Native CLI**
@@ -213,19 +209,27 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="80" width="80" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" />
 </a>
-<a href="https://instagram.com/your-instagram-handle" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="instagram" height="80" width="80" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/satvik_.08/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/your-profile/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="leetcode" height="80" width="80" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/your-profile/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="geeksforgeeks" height="40" width="120" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/satvik_priyadarshi/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="50" width="50" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:priyadarshisatvik8@gmail.com" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="gmail" height="80" width="80" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="50" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/919798236106" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="50" width="50" />
 </a>
 </p>
 
