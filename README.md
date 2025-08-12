@@ -9,6 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20views&color=667eea&style=for-the-badge" alt="SatvikPriyadarshi" />
   <img src="https://img.shields.io/github/followers/SatvikPriyadarshi?label=Followers&style=for-the-badge&color=667eea" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="focus" />
 </div>
 
 <h3 align="center">
@@ -108,7 +109,7 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-  📊 GitHub Stats
+  📊 GitHub Analytics
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 </h2>
 
@@ -118,7 +119,10 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SatvikPriyadarshi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
  <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatvikPriyadarshi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="SatvikPriyadarshi" /></p>
+ 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatvikPriyadarshi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="SatvikPriyadarshi" />
+
+<img align="center" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatvikPriyadarshi&theme=react" alt="repos per language" />
    <br><br> 
 </div>
 
@@ -154,8 +158,9 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
     <br><br>
     
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/SATVIK_priyadarshi/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/satvik_priyadarshi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SATVIK_priyadarshi/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/satvik_priyadarshi/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/your-profile)
 
 </div>
 
@@ -187,7 +192,11 @@
 
 <br>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatvikPriyadarshi&bg_color=0d1117&color=708090&line=24292e&point=ffeb3b&area=true&hide_border=true" alt="activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatvikPriyadarshi&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="activity graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatvikPriyadarshi&theme=react" alt="profile summary"/>
 </div>
 
 <br><br>
@@ -212,15 +221,15 @@
 <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/satvik_.08/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:priyadarshisatvik8@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="50" width="50" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="40" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/919798236106" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="50" width="50" />
 </a>
