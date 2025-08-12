@@ -46,20 +46,19 @@
 <br/>
 
 <div align="center">
-    <h3>💻 Programming Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp&theme=dark" />
-    <br><br>
-    
-    <h3>🚀 Frontend Technologies</h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui&theme=dark" />
-    <br><br>
-    
-    <h3>⚙️ Backend & Database</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-    <br><br>
-    
-    <h3>🛠️ Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux&theme=dark" />
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=javascript,python,c,cpp&theme=dark" />
+
+### 🚀 Frontend Technologies  
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux&theme=dark" />
+
 </div>
 
 <br/>
@@ -77,8 +76,10 @@
 <br>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
 </div>
+
+<br>
 
 <div align="center">
 
@@ -202,7 +203,7 @@
 </h2>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </div>
 
 <br>
@@ -234,7 +235,7 @@
 </p>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
 <div align="center">
