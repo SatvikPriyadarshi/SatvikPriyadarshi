@@ -1,142 +1,151 @@
-# Hi there! 👋 I'm Satvik Priyadarshi
+![gitartwork](gitartwork.svg)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Satvik+Priyadarshi!;" />
+</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="SatvikPriyadarshi" /> </p>
+
+<h3 align="center">I'm a passionate Software Development Engineer specialized in building scalable full-stack applications based in Jaipur, Rajasthan 📍</h3>
+
+<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+
+<br><br><br><br>
+
+- 🔭 I'm currently working at **Medispace Solutions** as **Software Development Engineer**
+- 🌱 I'm currently learning **React Native, Next.js, Cloud Technologies**
+- 📫 How to reach me **priyadarshisatvik8@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
+- ⚡ Fun fact **I love automating things and building IoT solutions**
+
+<br><br><br><br>
+
+<hr>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,javascript,html,css,python" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,express,docker,git,github,vscode" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,firebase,vercel,linux,tailwind,materialui" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">💼 Work Experience</h2>
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Development+Engineer;React+%7C+Node.js+%7C+React+Native;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
 
-## 🚀 About Me
-
-I'm a passionate **Software Development Engineer** with a strong foundation in full-stack development. Currently working at **Medispace Solutions** and pursuing B.Tech in Electronics Engineering from SKIT, Jaipur.
-
-- 🔭 I'm currently working on **React Native applications** and **scalable web solutions**
-- 🌱 I'm currently learning **Advanced React patterns** and **Cloud technologies**
-- 👯 I'm looking to collaborate on **open source projects** and **innovative web applications**
-- 💬 Ask me about **React, Node.js, React Native, JavaScript**
-- 📫 How to reach me: **priyadarshisatvik8@gmail.com**
-- ⚡ Fun fact: **I love automating things and building solutions that make life easier**
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A68?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 💼 Work Experience
-
-### Software Development Engineer at Medispace Solutions
+### 🚀 Software Development Engineer | Medispace Solutions
 **May 2025 - Present**
-- Developing mobile applications using **React Native CLI**
-- Building scalable web applications with **Next.js** and **React.js**
-- Managing server infrastructure on **Linode**
+- Building cross-platform mobile apps with **React Native CLI**
+- Developing scalable web applications using **Next.js** and **React.js**
+- Managing cloud infrastructure on **Linode servers**
 - Deploying applications on **Vercel** platform
 
-### Full Stack Developer Intern at Techniajz
+### 💻 Full Stack Developer Intern | Techniajz
 **October 2024 - March 2025**
-- Developed backend for UpMyTeam with database filtering for multi-company operations
-- Built frontend using **React.js** for multiple projects
-- Implemented real-time features using **Socket.io**
-- Worked with **Node.js**, **Express.js**, and **Angular**
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🌱 Hydroponic Farming System
-**Full-Stack IoT Application**
-- Built with **React.js** frontend and **Node.js** backend
-- Real-time sensor data via **MQTT** and **NodeMCU**
-- **JWT authentication** and automated environmental controls
-- Email alerts and real-time monitoring dashboard
-
-### 🛒 S-Kart E-commerce Platform
-**Complete E-commerce Solution**
-- **React.js** with **Material UI** for responsive design
-- **Firebase** backend with **Razorpay** payment integration
-- Admin panel for product and order management
-- Secure user authentication and shopping cart
+- Developed backend systems with **Node.js** and **Express.js**
+- Built responsive frontends using **React.js** and **Angular**
+- Implemented real-time features with **Socket.io**
+- Optimized database operations for multi-company platforms
 
 </div>
 
-## 📊 GitHub Stats
+<br>
+<hr/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikPriyadarshi&layout=compact&langs_count=7&theme=tokyonight"/>
+<h2 align="center"> 📊 GitHub Stats</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SatvikPriyadarshi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SatvikPriyadarshi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+ <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatvikPriyadarshi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="SatvikPriyadarshi" /></p>
+   <br><br> 
 </div>
 
+<hr/>
+
+<h2 align="center"> 🏆 GitHub Trophies</h2>
+<br>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="readme trophies" />
+  <br/>
+    <br><br>
+ </div>
+
+<hr/>
+
+<h2 align="center"> 🎯 Coding Profiles</h2>
+<br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatvikPriyadarshi&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🎯 Coding Profiles
-
-<div align="center">
-
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+    <br><br>
+    
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your-profile)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/your-profile)
 
 </div>
 
-## 🌟 Community & Volunteering
+<hr/>
 
-- 🩸 **Blood Donation Camp Volunteer** - SKIT College
-- 🤝 **Umang & Baghirath Programs** - Community outreach for elderly and underprivileged children
-- 🏥 **NGO Collaboration** - Working with local shelters and community organizations
+<h2 align="center"> ✍️ Random Dev Quote</h2>
+<br>
+<div align=center>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quotes" />
+  <br/><br><br>
+ </div>
 
-## 📫 Let's Connect!
+<hr/>
 
+<h2 align="center">  🔝 Top Contributed Repo</h2>
+<br>
+<div align=center>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SatvikPriyadarshi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo" />
+  <br/><br><br>
+ </div>
+
+<hr/>
+
+<h2 align="center">🌟 Activity Graph</h2>
+<br>
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatvikPriyadarshi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyadarshisatvik8@gmail.com)
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatvikPriyadarshi&bg_color=0d1117&color=708090&line=24292e&point=ffeb3b&area=true&hide_border=true" alt="activity graph"/>
 </div>
 
+<hr/>
+
+<br><br>
+<h3 align="center">🤝 Connect with me:</h3>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/your-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/your-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+<a href="mailto:priyadarshisatvik8@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+</p>
+
+<hr/>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/SatvikPriyadarshi">SatvikPriyadarshi</a></i>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
