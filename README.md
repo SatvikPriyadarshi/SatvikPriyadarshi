@@ -74,8 +74,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </h2>
 
-<br>
-
 <div align="center">
 
 ### 🚀 Software Developer | Medispace Solutions
