@@ -77,12 +77,6 @@
 <br>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
-</div>
-
-<br>
-
-<div align="center">
 
 ### 🚀 Software Developer | Medispace Solutions
 **May 2025 - Present**
@@ -218,6 +212,10 @@
 <br>
 
 <p align="center">
+<a href="https://port-folio-jet-nine.vercel.app/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" width="50" />
 </a>
