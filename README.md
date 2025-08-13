@@ -30,7 +30,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
 - ⚡ Fun fact **I design complete system architectures from ground up!**
 
-<br><br><br><br>
+<br><br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
