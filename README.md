@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Satvik%20Priyadarshi&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20React%20Native&descSize=20&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Satvik%20Priyadarshi&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20React%20Native&descSize=20&descAlignY=62&descColor=a78bfa" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://port-folio-jet-nine.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/)
+&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:priyadarshisatvik8@gmail.com)
+&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=a78bfa)](https://leetcode.com/u/SATVIK_priyadarshi/)
 
 </div>
@@ -41,36 +40,23 @@ const satvik = {
 
 <div align="center">
 
-**Languages**
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=javascript,python,c,cpp&theme=dark&perline=8" height="65" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=A8B9CC)
+<br/>
 
-**Frontend**
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui&theme=dark&perline=8" height="65" />
 
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Material UI](https://img.shields.io/badge/Material_UI-1a1a2e?style=flat-square&logo=mui&logoColor=007FFF)
+<br/>
 
-**Backend & Database**
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=8" height="65" />
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express-1a1a2e?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a2e?style=flat-square&logo=firebase&logoColor=FFCA28)
+<br/>
 
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-1a1a2e?style=flat-square&logo=linode&logoColor=00A95C)
+### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,linux&theme=dark&perline=8" height="65" />
 
 </div>
 
