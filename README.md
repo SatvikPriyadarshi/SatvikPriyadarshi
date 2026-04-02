@@ -101,12 +101,20 @@ const satvik = {
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SatvikPriyadarshi&count_private=true&theme=tokyonight&border_radius=8&hide_border=true" />
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=SatvikPriyadarshi&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8&hide_border=true" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-streak-stats.demolab.com?user=SatvikPriyadarshi&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&rank_icon=github" alt="GitHub Stats" />
+</td>
+</tr>
+</table>
 
-<br>
+<br/>
 
-<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatvikPriyadarshi&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=8&hide_border=true&size_weight=0.5&count_weight=0.5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikPriyadarshi&theme=tokyonight&hide_border=true&border_radius=8&layout=compact&langs_count=10&hide=html,css&count_private=true" alt="Top Languages" width="420"/>
 
 </div>
 
@@ -118,7 +126,7 @@ const satvik = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 
 </div>
 
@@ -130,7 +138,7 @@ const satvik = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatvikPriyadarshi&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatvikPriyadarshi&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&line=a78bfa&point=ffffff&color=a78bfa" alt="Contribution Graph" width="95%"/>
 
 </div>
 
