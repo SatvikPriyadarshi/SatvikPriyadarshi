@@ -1,29 +1,47 @@
-# Project Title
+# Header Banner
 
-## Description
-A brief description of the project, its purpose, and its main features.
+![Header Banner](https://example.com/banner.png)
 
-## Installation
-Instructions on how to install the project, including any prerequisites.
+---
 
-```bash
-# Sample installation command
-pip install project-name
-```
+## About Me
+Hello! I am Satvik Priyadarshi, a passionate software developer with experience in various technologies.
 
-## Usage
-Examples of how to use the project.
+---
 
-```bash
-# Sample usage command
-python main.py
-```
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2333BFFF.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 
-## Contributing
-Guidelines for contributing to the project.
+---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Experience
+### Medispace Solutions
+- Developed innovative software solutions that improved efficiency by 20%.
+- Collaborated within a cross-functional team to enhance project delivery.
 
-## Acknowledgements
-Thank you to everyone who contributed to the project.
+### Techniajz
+- Worked as a full-stack developer focused on user-centric design and implementation.
+- Successfully led a project that won the "Best Tech Innovation" award.
+
+---
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=radical)
+
+---
+
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi)
+
+---
+
+## Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SatvikPriyadarshi&theme=react-dark)
+
+---
+
+## Coding Profiles
+- [LeetCode](https://leetcode.com/SatvikPriyadarshi)
+- [HackerRank](https://www.hackerrank.com/SatvikPriyadarshi)
