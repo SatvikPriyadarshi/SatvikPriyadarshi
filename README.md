@@ -101,14 +101,15 @@ const satvik = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikPriyadarshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatvikPriyadarshi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SatvikPriyadarshi&theme=tokyonight&hide_border=true&border_radius=8" height="180em" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=SatvikPriyadarshi&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=1800" height="180em" alt="GitHub Streak"/>
 
 </div>
 
@@ -120,7 +121,7 @@ const satvik = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=tokyonight&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=tokyonight&no-frame=true&margin-w=10&column=4" alt="GitHub Trophies"/>
 
 </div>
 
