@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+👋,+I'm+Satvik+Priyadarshi;Software+Developer+@+Medispace+Solutions;Building+Scalable+Systems+%26+Cross-Platform+Apps;React+•+React+Native+•+Next.js+•+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+👋,+I'm+Satvik+Priyadarshi;Software+Developer+@+Medispace+Solutions;Building+Scalable+SaaS+%26+Cross-Platform+Apps;React+•+React+Native+•+Next.js+•+Node.js" />
 </h1>
 
 <br/>
@@ -25,24 +25,23 @@
 
 ## 👨‍💻 About Me
 
-I'm currently working as a `Software Developer` at `Medispace Solutions`, architecting complete applications from scratch—from database schemas and system design to full-stack implementation.
+I'm currently working as a `Software Developer` at `Medispace Solutions`, architecting a complete **Multi-Tenant SaaS platform** from the ground up—handling everything from database schema design to full-stack implementation and cloud infrastructure.
 
-My work primarily focuses on building `scalable healthcare management systems`, where I contribute to cross-platform mobile apps using React Native, production web apps using Next.js, and robust backend architectures. 
+My work primarily focuses on building highly scalable, cross-platform solutions. I develop native-feeling mobile apps using React Native (incorporating complex device features), robust web dashboards using Next.js, and highly optimized, service-oriented backend architectures.
 
-I enjoy solving complex technical challenges like background location tracking, optimizing distributed services, and building automated modules for real-world enterprise needs.
+I thrive on solving complex engineering challenges, such as implementing **Android Foreground Location Tracking**, building **Automated WhatsApp Bots**, integrating **Over-The-Air (OTA) mobile updates**, and designing secure multi-tenant data pipelines.
 
 <br>
 
-## 🚀 What I Work On
+## 🚀 What I Work On & Technical Achievements
 
-- `React Native` cross-platform mobile development
-- `Next.js` & `React.js` production web applications
-- `Background Location Tracking` & GPS foreground services
-- `Node.js` & `Express.js` backend APIs & optimization
-- Automated `PDF Generation` & reimbursement workflows
-- Authentication, security validation & data access
-- Database schema design & optimization (`MongoDB`, `MySQL`)
-- Cloud infrastructure deployment (`Linode`, `Vercel`)
+- **Enterprise Mobile Development:** `React Native` apps with Custom `OTA (Over-The-Air)` update pipelines and offline-first encrypted storage.
+- **Advanced Geolocation:** Implemented native Android foreground services for accurate, battery-optimized `Background Location Tracking`.
+- **SaaS Architecture:** Designed and migrated a scalable `Multi-Tenant Database` architecture using `MongoDB` and `Node.js`.
+- **Automated Document Pipelines:** Server-side `PDF Generation` engines using `Puppeteer` & `PDFKit` for automated enterprise reporting.
+- **Third-Party Integrations:** Built interactive `WhatsApp Chatbots` for automated ticketing and integrated `Twilio/ZeptoMail` notifications.
+- **Clean Backend Systems:** Service-oriented backend (`Express.js`) utilizing the Repository Pattern, JWT role-based guards, and `Prometheus` metrics observability.
+- **Production Infrastructure:** Managing scalable deployments, CI/CD, and database indexing across `Linode` VMs and `Vercel`.
 
 <br>
 
@@ -85,10 +84,10 @@ I enjoy solving complex technical challenges like background location tracking, 
 ### 🚀 Software Developer
 **Medispace Solutions** · *May 2025 – Present*
 
-- Architecting complete applications from scratch — database schemas, system design, and full-stack implementation
-- Building cross-platform mobile apps with **React Native CLI**
-- Developing production web apps using **Next.js** and **React.js**
-- Managing and scaling cloud infrastructure on **Linode** and **Vercel**
+- Architecting a complete **Multi-Tenant SaaS platform** from scratch, handling database schema design, system architecture, and full-stack implementation.
+- Built a cross-platform mobile app using **React Native**, featuring **Android Foreground Location Tracking**, offline-first encrypted storage, and custom **Over-The-Air (OTA)** update pipelines.
+- Engineered a scalable **Node.js/Express** backend utilizing the Repository Pattern, automated **Puppeteer PDF Generation**, and **Prometheus** observability.
+- Integrated automated **WhatsApp Chatbots** for ticketing and managed production infrastructure across **Linode** VMs and **Vercel**.
 
 </td>
 <td width="50%" valign="top">
