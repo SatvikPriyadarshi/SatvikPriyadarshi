@@ -3,10 +3,6 @@
 # 👋 Hi, I'm Satvik Priyadarshi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Developer+%40+Medispace;Full-Stack+%26+Mobile+Engineer;Building+Scalable+SaaS+Solutions;React+Native+•+Next.js+•+Node.js" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Software_Developer-Medispace_Solutions-3B82F6?style=for-the-badge&logo=rocket" alt="Current Role" />
 </p>
 
@@ -39,23 +35,23 @@
 
 ## 🚀 About Me
 
-```typescript
-const satvik = {
-    role: "Software Developer @ Medispace Solutions",
-    location: "India",
-    focus: ["Full-Stack Development", "Mobile Engineering", "SaaS Architecture"],
-    currentlyBuilding: "Multi-Tenant SaaS Platform from scratch",
-    expertise: {
-        mobile: ["React Native", "OTA Updates", "Foreground Location Tracking"],
-        backend: ["Node.js", "Express", "MongoDB", "Repository Pattern"],
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        devOps: ["Docker", "Linode", "Vercel", "CI/CD"],
-        automation: ["WhatsApp Bots", "PDF Generation", "Email Notifications"]
-    },
-    challenges: "Optimized API response time from 49s to 2s through strategic indexing",
-    passion: "Building scalable, production-ready systems that solve real problems"
-};
-```
+I'm currently working as a `Software Developer` at `Medispace Solutions`, architecting a complete `Multi-Tenant SaaS platform` from the ground up—handling everything from database schema design to full-stack implementation and cloud infrastructure.
+
+My work primarily focuses on building highly scalable, cross-platform solutions. I develop native-feeling mobile apps using `React Native` (incorporating complex device features), robust web dashboards using `Next.js`, and highly optimized, service-oriented backend architectures.
+
+I thrive on solving complex engineering challenges, such as implementing `Android Foreground Location Tracking`, building `Automated WhatsApp Bots`, integrating `Over-The-Air (OTA)` mobile updates, and designing secure data pipelines.
+
+<br/>
+
+## 🎯 What I Work On
+
+- `Enterprise Mobile Development` (Custom OTA updates, offline-first encrypted storage)
+- `Advanced Geolocation` (Native Android foreground services, battery-optimized tracking)
+- `SaaS Architecture` (Multi-Tenant Database design using MongoDB and Node.js)
+- `Automated Document Pipelines` (Server-side PDF Generation engines using Puppeteer)
+- `Third-Party Integrations` (Interactive WhatsApp Chatbots, Twilio/ZeptoMail notifications)
+- `Clean Backend Systems` (Repository Pattern, JWT role-based guards, Prometheus metrics)
+- `Production Infrastructure` (Scalable deployments and CI/CD across Linode and Vercel)
 
 <br/>
 
@@ -125,37 +121,6 @@ const satvik = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-
-<br/>
-
-## 🎯 What I Build
-
-```mermaid
-mindmap
-  root((Satvik's Work))
-    Mobile Development
-      React Native Apps
-      OTA Updates
-      Location Tracking
-      Offline Storage
-    Backend Systems
-      Node.js APIs
-      MongoDB Design
-      Repository Pattern
-      JWT Auth
-    SaaS Architecture
-      Multi-Tenant DB
-      Role Based Access
-      Scalable Design
-    Automation
-      WhatsApp Bots
-      PDF Generation
-      Email Pipelines
-    DevOps
-      Docker
-      CI/CD
-      Cloud Deploy
-```
 
 <br/>
 
