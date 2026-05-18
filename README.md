@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Satvik%20Priyadarshi&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20React%20Native&descSize=20&descAlignY=62&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" />
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+👋,+I'm+Satvik+Priyadarshi;Software+Developer+@+Medispace+Solutions;Building+Scalable+Systems+%26+Cross-Platform+Apps;React+•+React+Native+•+Next.js+•+Node.js" />
+</h1>
 
 <br/>
 
@@ -21,16 +25,24 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const satvik = {
-  role     : "Software Developer @ Medispace Solutions",
-  location : "Jaipur, Rajasthan 🇮🇳",
-  focus    : ["Full-Stack Development", "React Native", "System Architecture"],
-  currently: "Building scalable applications from ground up — schema to deployment",
-  passion  : ["IoT Solutions", "Process Automation", "Clean Architecture"],
-  contact  : "priyadarshisatvik8@gmail.com",
-};
-```
+I'm currently working as a `Software Developer` at `Medispace Solutions`, architecting complete applications from scratch—from database schemas and system design to full-stack implementation.
+
+My work primarily focuses on building `scalable healthcare management systems`, where I contribute to cross-platform mobile apps using React Native, production web apps using Next.js, and robust backend architectures. 
+
+I enjoy solving complex technical challenges like background location tracking, optimizing distributed services, and building automated modules for real-world enterprise needs.
+
+<br>
+
+## 🚀 What I Work On
+
+- `React Native` cross-platform mobile development
+- `Next.js` & `React.js` production web applications
+- `Background Location Tracking` & GPS foreground services
+- `Node.js` & `Express.js` backend APIs & optimization
+- Automated `PDF Generation` & reimbursement workflows
+- Authentication, security validation & data access
+- Database schema design & optimization (`MongoDB`, `MySQL`)
+- Cloud infrastructure deployment (`Linode`, `Vercel`)
 
 <br>
 
