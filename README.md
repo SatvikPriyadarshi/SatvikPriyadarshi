@@ -1,131 +1,211 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+👋,+I'm+Satvik+Priyadarshi;Building+Scalable+SaaS+%26+Cross-Platform+Apps;React+•+React+Native+•+Next.js+•+Node.js" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer @ Medispace Solutions
-</h3>
+# 👋 Hi, I'm Satvik Priyadarshi
 
-<p align="center" style="color: #9ca3af;">
-Full-Stack Engineering • Mobile Development (React Native) • Multi-Tenant SaaS • Cloud Infrastructure
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Developer+%40+Medispace;Full-Stack+%26+Mobile+Engineer;Building+Scalable+SaaS+Solutions;React+Native+•+Next.js+•+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Software_Developer-Medispace_Solutions-3B82F6?style=for-the-badge&logo=rocket" alt="Current Role" />
 </p>
 
----
-
-## About Me
-
-I'm currently working as a `Software Developer` at `Medispace Solutions`, architecting a complete `Multi-Tenant SaaS platform` from the ground up—handling everything from database schema design to full-stack implementation and cloud infrastructure.
-
-My work primarily focuses on building highly scalable, cross-platform solutions. I develop native-feeling mobile apps using `React Native` (incorporating complex device features), robust web dashboards using `Next.js`, and highly optimized, service-oriented backend architectures.
-
-I thrive on solving complex engineering challenges, such as implementing `Android Foreground Location Tracking`, building `Automated WhatsApp Bots`, integrating `Over-The-Air (OTA)` mobile updates, and designing secure data pipelines.
-
----
-
-## What I Work On
-
-- `Enterprise Mobile Development` (Custom OTA updates, offline-first encrypted storage)
-- `Advanced Geolocation` (Native Android foreground services, battery-optimized tracking)
-- `SaaS Architecture` (Multi-Tenant Database design using MongoDB and Node.js)
-- `Automated Document Pipelines` (Server-side PDF Generation engines using Puppeteer)
-- `Third-Party Integrations` (Interactive WhatsApp Chatbots, Twilio/ZeptoMail notifications)
-- `Clean Backend Systems` (Repository Pattern, JWT role-based guards, Prometheus metrics)
-- `Production Infrastructure` (Scalable deployments and CI/CD across Linode and Vercel)
-
----
-
-## Tech Stack
-
-### Languages & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,javascript,python,c,cpp" />
+<p align="center">
+  <a href="mailto:priyadarshisatvik8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/SATVIK_priyadarshi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/satvik_priyadarshi/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" />
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🚀 About Me
+
+```typescript
+const satvik = {
+    role: "Software Developer @ Medispace Solutions",
+    location: "India",
+    focus: ["Full-Stack Development", "Mobile Engineering", "SaaS Architecture"],
+    currentlyBuilding: "Multi-Tenant SaaS Platform from scratch",
+    expertise: {
+        mobile: ["React Native", "OTA Updates", "Foreground Location Tracking"],
+        backend: ["Node.js", "Express", "MongoDB", "Repository Pattern"],
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        devOps: ["Docker", "Linode", "Vercel", "CI/CD"],
+        automation: ["WhatsApp Bots", "PDF Generation", "Email Notifications"]
+    },
+    challenges: "Optimized API response time from 49s to 2s through strategic indexing",
+    passion: "Building scalable, production-ready systems that solve real problems"
+};
+```
+
+<br/>
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Software Developer
+**Medispace Solutions** • *May 2025 – Present*
+
+- 🏗️ Architecting **Multi-Tenant SaaS** from ground up
+- 📱 Built **React Native** app with native features
+- ⚡ Implemented **OTA updates** & offline storage
+- 🤖 Integrated **WhatsApp Chatbots** for automation
+- 📊 Added **Prometheus** observability
+- 🚀 Deployed on **Linode** & **Vercel**
+
+</td>
+<td width="50%">
+
+### 💻 Full Stack Developer Intern
+**Techniajz** • *Oct 2024 – Mar 2025*
+
+- 🔧 Built backend with **Node.js** & **Express**
+- 🎨 Developed UIs with **React** & **Angular**
+- ⚡ Added real-time features via **Socket.io**
+- 🗄️ Optimized multi-tenant database operations
+- 🔐 Implemented authentication systems
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend & Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### Cloud & Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,linux" />
-</p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Development
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
-</p>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+</div>
 
-## Professional Experience
+<br/>
 
-### Software Developer  
-**Medispace Solutions** | May 2025 – Present
+## 🎯 What I Build
 
-- Architecting a complete `Multi-Tenant SaaS platform` from scratch, handling database schema design, system architecture, and full-stack implementation
-- Built a cross-platform mobile app using `React Native`, featuring `Android Foreground Location Tracking`, offline-first encrypted storage, and custom `Over-The-Air (OTA)` update pipelines
-- Engineered a scalable `Node.js/Express` backend utilizing the Repository Pattern, automated `Puppeteer PDF Generation`, and `Prometheus` observability
-- Integrated automated `WhatsApp Chatbots` for ticketing and managed production infrastructure across `Linode` VMs and `Vercel`
+```mermaid
+mindmap
+  root((Satvik's Work))
+    Mobile Development
+      React Native Apps
+      OTA Updates
+      Location Tracking
+      Offline Storage
+    Backend Systems
+      Node.js APIs
+      MongoDB Design
+      Repository Pattern
+      JWT Auth
+    SaaS Architecture
+      Multi-Tenant DB
+      Role Based Access
+      Scalable Design
+    Automation
+      WhatsApp Bots
+      PDF Generation
+      Email Pipelines
+    DevOps
+      Docker
+      CI/CD
+      Cloud Deploy
+```
 
-### Full Stack Developer Intern  
-**Techniajz** | Oct 2024 – Mar 2025
+<br/>
 
-- Built robust backend systems using `Node.js` and `Express.js`
-- Developed responsive user interfaces with `React.js` and `Angular`
-- Implemented real-time communication features with `Socket.io`
-- Optimized database operations for multi-tenant platforms
+## 📊 GitHub Analytics
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=SatvikPriyadarshi&theme=react&border_radius=10" />
+<div align="center">
   
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=SatvikPriyadarshi&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatvikPriyadarshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SatvikPriyadarshi&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SatvikPriyadarshi/SatvikPriyadarshi/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Amazing!
+
+**Open to collaborations, freelance projects, and interesting conversations about tech**
+
+<p>
+  <a href="mailto:priyadarshisatvik8@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatvikPriyadarshi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatvikPriyadarshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-
-<a href="mailto:priyadarshisatvik8@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="35" width="35" />
-</a>
-
-<a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/SATVIK_priyadarshi/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/satvik_priyadarshi/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/your-profile" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-
-</p>
+</div>
