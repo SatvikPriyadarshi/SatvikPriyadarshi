@@ -158,6 +158,37 @@ I thrive on solving complex engineering challenges, such as implementing `Androi
 
 <br/>
 
+## 💡 Technical Expertise
+
+```mermaid
+mindmap
+  root((Satvik's Work))
+    Mobile Development
+      React Native Apps
+      OTA Updates
+      Location Tracking
+      Offline Storage
+    Backend Systems
+      Node.js APIs
+      MongoDB Design
+      Repository Pattern
+      JWT Auth
+    SaaS Architecture
+      Multi-Tenant DB
+      Role Based Access
+      Scalable Design
+    Automation
+      WhatsApp Bots
+      PDF Generation
+      Email Pipelines
+    DevOps
+      Docker
+      CI/CD
+      Cloud Deploy
+```
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
