@@ -152,30 +152,49 @@ I thrive on solving complex engineering challenges, such as implementing **Andro
 
 ---
 
-## 🎯 Coding Profiles
+<br>
 
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SATVIK_priyadarshi/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/satvik_priyadarshi/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/your-profile)
-
+  
+  <h2 align="center">🎯 Coding Profiles & Achievements</h2>
+  
+  <a href="https://leetcode.com/u/SATVIK_priyadarshi/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/satvik_priyadarshi/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/your-profile">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SatvikPriyadarshi">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
 </div>
 
+<br>
 <br>
 
 ---
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."*
-
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=a78bfa&style=flat-square)
+<div align="center">
+
+  <h3><i>"First, solve the problem. Then, write the code."</i></h3>
+  
+  <br>
+
+  <a href="https://github.com/SatvikPriyadarshi">
+    <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Visitor Count" />
+  </a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
