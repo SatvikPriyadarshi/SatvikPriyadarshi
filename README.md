@@ -1,14 +1,20 @@
-<div align="center">
+![gitartwork](gitartwork.svg)
 
-# SATVIK.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+👋,+I'm+Satvik+Priyadarshi;Full-Stack+%26+Mobile+Engineer;Building+Scalable+SaaS+Solutions;React+Native+•+Next.js+•+Node.js" />
+</h1>
 
-**Full-Stack & Mobile Engineer**
+<h3 align="center">
+Software Developer @ Medispace Solutions
+</h3>
 
-Software Developer @ Medispace Solutions &nbsp;•&nbsp; React Native &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Node.js
+<p align="center" style="color: #9ca3af;">
+Full-Stack Engineering &nbsp;•&nbsp; Mobile Development &nbsp;•&nbsp; SaaS Architecture &nbsp;•&nbsp; Cloud Infrastructure
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=3dbaff&style=flat-square" alt="profile views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
