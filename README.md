@@ -1,39 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Satvik Priyadarshi
+# SATVIK.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Developer+%40+Medispace;Full-Stack+%26+Mobile+Engineer;Building+Scalable+SaaS+Solutions;React+Native+•+Next.js+•+Node.js" alt="Typing SVG" />
-</p>
+**Full-Stack & Mobile Engineer**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Developer-Medispace_Solutions-3B82F6?style=for-the-badge&logo=rocket" alt="Current Role" />
-</p>
+Software Developer @ Medispace Solutions &nbsp;•&nbsp; React Native &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Node.js
 
-<p align="center">
-  <a href="mailto:priyadarshisatvik8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/SATVIK_priyadarshi/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/satvik_priyadarshi/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=SatvikPriyadarshi&label=Profile%20Views&color=3dbaff&style=flat-square" alt="profile views" />
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <br/>
 
@@ -131,7 +108,7 @@ I thrive on solving complex engineering challenges, such as implementing `Androi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SatvikPriyadarshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=SatvikPriyadarshi&theme=tokyonight&hide_border=true" />
 
@@ -189,22 +166,33 @@ mindmap
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
 
-**Open to collaborations, freelance projects, and interesting conversations about tech**
+*Open to collaborations, freelance projects, and interesting conversations about tech*
 
-<p>
-  <a href="mailto:priyadarshisatvik8@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="mailto:priyadarshisatvik8@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/satvik-priyadarshi-73a20b231/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/SATVIK_priyadarshi/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/satvik_priyadarshi/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
